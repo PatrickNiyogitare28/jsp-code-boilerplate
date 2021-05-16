@@ -1,7 +1,7 @@
 # jsp-code-boilerplate
 Codes serves to implement Java web with jsp ♨️☕
 
-## Quick getting started 🚀🚀
+## Quick getting started 🚀
 - clone the repo
 
 ## Prepare development environment
